@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd{
+    background-color: purple;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+.odd#third{
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
